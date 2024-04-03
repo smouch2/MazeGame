@@ -1,3 +1,6 @@
+Note: This was developed in an introductory Java class before constructors and object instantiation were covered, hence multiple classes for the same object type.
+
+
 How to Play:
 
 You're an adventurer stuck in a dungeon full of trolls.  Collect the key, sneak past the trolls, and make it to 
